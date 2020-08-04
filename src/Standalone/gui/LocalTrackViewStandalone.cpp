@@ -11,6 +11,7 @@
 #include <QStyle>
 #include <QSlider>
 #include <QPainter>
+#include <QPainterPath>
 #include <QDesktopWidget>
 
 LocalTrackViewStandalone::LocalTrackViewStandalone(controller::MainControllerStandalone *mainController, int channelIndex) :
